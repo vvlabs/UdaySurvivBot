@@ -33,13 +33,11 @@ Bigger and more vibrant bullets
 New Default Cursor
 
 Special Features:
-You can shoot on space key.
-Auto loot and auto opening door added.
-Zoom radius regulation by Left shift + Mouse wheel
-Game menu added. Press Z key to enable the cheat and ESC to show menu.
-Fast weapon changing, just click right mouse key.
-Emotes are available after pressing the B key(instead right mouse key).
-If you need to temporary disable auto aim, just hold Left shift key.
-Now the auto aim will aim for enemy, closest to mouse pointer
-
-
+1. You can shoot on space key.
+2. Auto loot and auto opening door added.
+3. Zoom radius regulation by Left shift + Mouse wheel
+4. Press Z key to enable/disable and ESC to show the menu. 
+5. Fast weapon changing, just click right mouse key.
+6. Emotes are available after pressing the B key(instead right mouse key).
+7. If you need to temporary disable auto aim, just hold Left shift key.
+8. Now the auto aim will aim for enemy, closest to mouse pointer.
