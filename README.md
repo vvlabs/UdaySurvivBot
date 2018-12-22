@@ -2,35 +2,31 @@
 Uday's BEAST Surviv.io BOT
 
 To Use: 
-Download this file with the green button on the top of the screen.
-Extract the ZIP file you just downloaded.
-Go to chrome://extensions in your browser. Make sure you have Developer Mode activated. (Do this by toggling the button in chrome://extensions)
-Click "Load Unpacked" and select the subfolder named ChromeExtension which is in the extracted.
-Open Surviv.io.
-Have fun!
+1. Download this file with the green button on the top of the screen.
+2. Extract the ZIP file you just downloaded.
+3. Go to chrome://extensions in your browser. Make sure you have Developer Mode activated. (Do this by toggling the button in chrome://extensions)
+4. Click "Load Unpacked" and select the subfolder named ChromeExtension which is in the extracted.
+5. Open Surviv.io.
 
 Features: 
-Aimbot
-Aimbot with collision detection [beta]
-Continuous Fire (hold click button)
-Custom zooming control with scroll wheel
-Autoloot
-Transparent buildings, ceilings, obstacles, and trees
-Lasersight (shot range)
-Displays enemy lines
-Frag grenade timer
-Auto opening doors
-Fast weapon changing (right click)
-Auto heal
-FPS Counter
-Planes tracking + visibility of air drop on minimap has been extended (not working)
-AutoDodge [beta]
-AutoSwitch
-Multiboxing [beta] Use the multibox branch
-Triggerbot
-Color explosive barrels in red
-Bigger and more vibrant bullets
-New Default Cursor
+1. Aimbot with collision detection in beta.
+2. Continuous Fire (hold click button)
+3. Custom zooming control with scroll wheel
+4. AUTOLOOT
+5. Transparent buildings, ceilings, obstacles, and trees
+6. Lasersight sniping shot range
+7. Displays enemy lines
+8. Frag grenade timer
+9. Auto opening doors
+10. Fast weapon changing (right click)
+11. Auto healing
+12. FPS Counter
+13. AutoDodge in beta
+14. AutoSwitching of Weapons
+15. Triggerbot (Don't need to fire manually)
+16. Explosive barrels are red!
+17. Bigger bullets
+18. New Default Cursor
 
 Special Features:
 1. You can shoot on space key.
