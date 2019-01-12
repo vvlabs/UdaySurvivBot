@@ -1,6 +1,8 @@
 # UdaySurvivBot
 Uday's BEAST Surviv.io BOT
 
+# ATTENTION ALL: THE FOREST UPDATE IS CAUSING SOME PROBLEMS. I AM TRYING MY BEST TO FIX THE AIMBOT. IN THE MEANTIME, HANG TIGHT!
+
 To Use: 
 1. Download this file with the green button on the top of the screen.
 2. Extract the ZIP file you just downloaded.
